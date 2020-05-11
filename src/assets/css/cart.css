@@ -1,0 +1,54 @@
+.cart
+{
+
+}
+
+.cart h3
+{
+    float: left;
+    font-size: 40px; 
+}
+
+.cart .main
+{
+    background-color: darkgrey;
+    padding: 12px 0px 12px 0;
+    margin-top: 5px;
+}
+
+.cart .main p
+{
+    font-size: 17px;
+    margin-bottom: 0;  
+}
+
+.cart .main h6
+{
+    font-size: 15px;
+    margin-bottom: 0; 
+}
+
+.cart .second
+{
+
+}
+
+.cart .second a
+{
+
+}
+
+.cart .second h6
+{
+
+}
+
+.cart .second input 
+{
+
+}
+
+.cart hr
+{
+
+}
